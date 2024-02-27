@@ -1,0 +1,34 @@
+.look a {
+    text-decoration: none;
+    color: white;
+}
+.look h1{
+    color: white;
+}
+.gh{
+    border: 5px solid lightblue;
+    border-radius: 5px;
+    background-color: blue;
+    width: 300px;
+    padding-left: 40px;
+  
+    padding-bottom: 10px;
+}
+  
+.jk {
+    border: 3px solid lightgrey;
+    border-radius: 3px;
+   margin: 10px 5px;
+   width: 180px;
+   padding-left: 2px;
+}
+.hj{
+    border: 3px solid lightgrey;
+    border-radius: 3px;
+    margin: 10px 5px;
+    width: 180px;
+    padding-left: 2px;
+}
+.bg{
+  padding-left: 70px;
+}
